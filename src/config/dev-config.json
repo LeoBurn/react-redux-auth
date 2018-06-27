@@ -1,0 +1,6 @@
+{
+  "ControlPanelApi": {
+    "Url": "http://localhost:55585/api",
+    "ApiKey": ""
+  }
+}

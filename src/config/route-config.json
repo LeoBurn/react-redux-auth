@@ -1,0 +1,7 @@
+{
+    "RootUrl":"/",
+    "FeatureUrl":"/feature",
+    "SignUpUrl":"/signup",
+    "SignOutUrl":"/signout",
+    "SignInUrl":"/signin"
+}
